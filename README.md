@@ -1,5 +1,4 @@
 ## Cleber Santos :man_astronaut:
----
 
 [![Gmail Badge](https://img.shields.io/badge/-My_Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleber7284@gmail.com)](mailto:cleber7284@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Cleber_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-rodrigo-santos/)](https://www.linkedin.com/in/cleber-rodrigo-santos/)
@@ -7,7 +6,6 @@
 ---
 > “Às vezes, a vida vai te acertar um tijolo na cabeça. Não perca a fé. Eu estou convencido de que a única coisa que me fez seguir em frente era que eu amava o que fazia.”  
 > **Steve Jobs**
----
 
 ### Olá, tudo bem? :vulcan_salute: ,
 
