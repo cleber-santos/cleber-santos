@@ -1,3 +1,9 @@
+<h1 align="center">
+    <img alt="Octocat" src="https://user-images.githubusercontent.com/62780876/88581598-cc67aa00-d023-11ea-8d31-37f2455e2da1.png" width="150px" />
+</h1>
+
+
+
 ## Cleber Santos :man_astronaut:
 
 [![Gmail Badge](https://img.shields.io/badge/-My_Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleber7284@gmail.com)](mailto:cleber7284@gmail.com)
