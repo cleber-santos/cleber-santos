@@ -16,8 +16,8 @@
 ### Olá, tudo bem? :vulcan_salute: ,
 
 Me chamo Cleber Santos, pai de familia:bearded_person:, NERD por natureza :nerd_face:... e viciado por técnologia!:man_technologist:
-* Sou estudante de Analise e Desenvolvimento de Sistemas na [UNICID](https://www.unicid.edu.br/).
-* E aluno na [RocketSeat](https://rocketseat.com.br), matriculado no bootcamp [Launchbase](https://rocketseat.com.br/launchbase), onde sou guiando pelas ferramentas e conceitos mais modernos de desenvolvimento web para alcançar meus maiores objetivos como dev.
+* Sou formado em Analise e Desenvolvimento de Sistemas na [UNICID](https://www.unicid.edu.br/).
+* E aluno na [RocketSeat](https://rocketseat.com.br), estudante de front-end, no ignite na [Trilha ReactJs](https://rocketseat.com.br/ignite), onde sou guiando pelas ferramentas e conceitos mais modernos de desenvolvimento web para alcançar meus maiores objetivos como dev.
 
 ---
 :octocat: Feito por [Cleber Santos](https://github.com/cleber-santos) :computer:
