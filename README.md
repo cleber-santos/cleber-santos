@@ -1,8 +1,7 @@
 <h1 align="center">
     <img
-        style="border-radius: 50%"
         alt="Octocat"
-        src="https://user-images.githubusercontent.com/62780876/88581598-cc67aa00-d023-11ea-8d31-37f2455e2da1.png"
+        src="https://user-images.githubusercontent.com/62780876/163990400-4cced913-0b04-4efe-94cb-a1e69039ce2a.jpg"
         width="150px"
       />
 </h1>
