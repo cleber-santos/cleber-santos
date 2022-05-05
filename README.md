@@ -19,7 +19,7 @@
 
 ### Olá, tudo bem? :vulcan_salute: ,
 
-Me chamo Cleber Santos, pai de familia:bearded_person:, NERD por natureza :nerd_face:... e viciado por técnologia!:man_technologist:
+Me chamo Cleber Santos, pai de familia:bearded_person:, NERD por natureza :nerd_face:... e apaixonado por técnologia!:man_technologist:
 * Sou formado em Analise e Desenvolvimento de Sistemas na [UNICID](https://www.unicid.edu.br/).
 * E aluno na [RocketSeat](https://rocketseat.com.br), estudante de front-end, no ignite na [Trilha ReactJs](https://rocketseat.com.br/ignite), onde sou guiando pelas ferramentas e conceitos mais modernos de desenvolvimento web para alcançar meus maiores objetivos como dev.
 
