@@ -20,9 +20,27 @@
 
 ### Olá, tudo bem? :vulcan_salute: ,
 
-Me chamo Cleber Santos, pai de familia:bearded_person:, NERD por natureza :nerd_face:... e apaixonado por técnologia!:man_technologist:
-* Sou formado em Analise e Desenvolvimento de Sistemas na [UNICID](https://www.unicid.edu.br/).
-* E aluno na [RocketSeat](https://rocketseat.com.br), estudante de front-end, no ignite na [Trilha ReactJs](https://rocketseat.com.br/ignite), onde sou guiando pelas ferramentas e conceitos mais modernos de desenvolvimento web para alcançar meus maiores objetivos como dev.
+Me chamo Cleber Santos, pai de familia, NERD por natureza ... e apaixonado por técnologia!🤓
+
+Profissional dedicado, com expertise em desenvolver soluções intuitivas e atraentes para os usuários. Formado em Análise e Desenvolvimento de Sistemas pela UNICID, e certificado em UX Design pelo Google via Coursera, onde aprimorei habilidades na utilização de ferramentas como Figma e Adobe XD para a criação de wireframes e protótipos de baixa e alta fidelidade. Conhecimento em HTML, CSS & Javascript!
+
+Acredito que a combinação entre minha formação em tecnologia e minha paixão pelo design me proporciona uma perspectiva única para abordar desafios de design e programação de maneira inovadora e orientada para resultados.
+
+Vivenciei dois anos na Inglaterra, onde adquiri conhecimento cultural e aprimorei meu inglês, expandindo minhas habilidades de comunicação e adaptabilidade.
+
+Considerando minhas habilidades e experiências, posso ser comparado a um "Kit de Ferramentas Multifuncional", oferecendo uma ampla gama de competências que podem ser aplicadas de diversas maneiras para atender a necessidades específicas.
+
+1. Soluções de Design Intuitivas: Desenvolvo soluções intuitivas e de fácil utilização para os usuários, assemelhando-me a uma ferramenta precisa e eficaz.
+
+2. Eficiência Operacional: Garanto eficiência operacional, aplicando metodologias ágeis e promovendo melhorias contínuas para alcançar resultados eficazes, similar a uma ferramenta otimizadora de processos.
+
+3. Flexibilidade e Adaptabilidade: Minha variedade de habilidades me torna flexível e capaz de me adaptar a diferentes contextos e situações, permitindo-me atender às demandas de forma versátil.
+
+4. Comunicação e Colaboração: Minhas habilidades sólidas de comunicação e colaboração são essenciais para trabalhar em equipe e alcançar objetivos comuns de maneira eficaz.
+
+5. Criatividade e Inovação: Estou sempre em busca de novas maneiras de melhorar e inovar na abordagem de desafios de design, visando aprimorar as experiências dos usuários.
+
+Por favor, conheça mais sobre meus projetos e meu currículo em: https://www.cleberux.com.br
 
 ---
 :octocat: Feito por [Cleber Santos](https://github.com/cleber-santos) :computer:
